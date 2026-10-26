@@ -45,6 +45,23 @@ Example spell inputs:
 | Ascendance — Enhancement Shaman | `114051` | [Ascendance](https://www.wowhead.com/spell=114051) |
 | Crash Lightning | `187874` | [Crash Lightning](https://www.wowhead.com/spell=187874) |
 
+
+<p align="center">
+  <img src="sample-images/orig.jpg" alt="Original image"><br>
+  <em>Original 400×400 image</em>
+</p>
+
+<p align="center">
+  <img src="sample-images/resized.png" alt="Resized icon"><br>
+  <em>Resized to 64×64</em>
+</p>
+
+<p align="center">
+  <img src="sample-images/result.png" alt="Custom icon in game"><br>
+  <em>Final swapped-out result in-game</em>
+</p>
+
+
 ### Install location
 
 The app creates the icon directory if needed and installs the file here:
